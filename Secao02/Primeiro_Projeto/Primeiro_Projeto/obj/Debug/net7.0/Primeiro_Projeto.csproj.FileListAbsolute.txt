@@ -1,0 +1,15 @@
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\net7.0\Primeiro_Projeto.exe
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\net7.0\Primeiro_Projeto.deps.json
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\net7.0\Primeiro_Projeto.runtimeconfig.json
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\net7.0\Primeiro_Projeto.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\bin\Debug\net7.0\Primeiro_Projeto.pdb
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\Primeiro_Projeto.csproj.AssemblyReference.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\Primeiro_Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\Primeiro_Projeto.AssemblyInfoInputs.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\Primeiro_Projeto.AssemblyInfo.cs
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\Primeiro_Projeto.csproj.CoreCompileInputs.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\Primeiro_Projeto.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\refint\Primeiro_Projeto.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\Primeiro_Projeto.pdb
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\Primeiro_Projeto.genruntimeconfig.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Primeiro_Projeto\Primeiro_Projeto\obj\Debug\net7.0\ref\Primeiro_Projeto.dll

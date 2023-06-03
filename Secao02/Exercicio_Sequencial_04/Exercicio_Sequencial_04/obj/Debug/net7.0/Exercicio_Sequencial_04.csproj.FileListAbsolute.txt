@@ -1,0 +1,15 @@
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\Exercicio_Sequencial_04.csproj.AssemblyReference.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\Exercicio_Sequencial_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\Exercicio_Sequencial_04.AssemblyInfoInputs.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\Exercicio_Sequencial_04.AssemblyInfo.cs
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\Exercicio_Sequencial_04.csproj.CoreCompileInputs.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\bin\Debug\net7.0\Exercicio_Sequencial_04.exe
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\bin\Debug\net7.0\Exercicio_Sequencial_04.deps.json
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\bin\Debug\net7.0\Exercicio_Sequencial_04.runtimeconfig.json
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\bin\Debug\net7.0\Exercicio_Sequencial_04.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\bin\Debug\net7.0\Exercicio_Sequencial_04.pdb
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\Exercicio_Sequencial_04.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\refint\Exercicio_Sequencial_04.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\Exercicio_Sequencial_04.pdb
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\Exercicio_Sequencial_04.genruntimeconfig.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao02\Exercicio_Sequencial_04\Exercicio_Sequencial_04\obj\Debug\net7.0\ref\Exercicio_Sequencial_04.dll
