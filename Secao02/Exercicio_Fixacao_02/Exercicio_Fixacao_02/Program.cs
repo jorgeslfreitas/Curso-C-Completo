@@ -16,6 +16,8 @@ namespace Exercicio_Fixacao_02
             Console.WriteLine("Entre com seu último nome, idade e altura:");
             string[] vet = Console.ReadLine().Split(' ');
 
+            Console.WriteLine(vet);
+
             string ultimoNome = vet[0];
             int idade = int.Parse(vet[1]);
             double altura = double.Parse(vet[2], CultureInfo.InvariantCulture);
