@@ -1,0 +1,15 @@
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\bin\Debug\net7.0\Exercicio_Condicional_05.exe
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\bin\Debug\net7.0\Exercicio_Condicional_05.deps.json
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\bin\Debug\net7.0\Exercicio_Condicional_05.runtimeconfig.json
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\bin\Debug\net7.0\Exercicio_Condicional_05.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\bin\Debug\net7.0\Exercicio_Condicional_05.pdb
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\Exercicio_Condicional_05.csproj.AssemblyReference.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\Exercicio_Condicional_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\Exercicio_Condicional_05.AssemblyInfoInputs.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\Exercicio_Condicional_05.AssemblyInfo.cs
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\Exercicio_Condicional_05.csproj.CoreCompileInputs.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\Exercicio_Condicional_05.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\refint\Exercicio_Condicional_05.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\Exercicio_Condicional_05.pdb
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\Exercicio_Condicional_05.genruntimeconfig.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_Condicional\Exercicio_Condicional_05\Exercicio_Condicional_05\obj\Debug\net7.0\ref\Exercicio_Condicional_05.dll

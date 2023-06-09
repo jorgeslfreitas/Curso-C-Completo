@@ -10,6 +10,7 @@ namespace Exercicio_Sequencial_06
 
         {
             double a, b, c, areaTriangulo, raioCirculo, trapezio, areaQuadrado, areaRetangulo;
+
             Console.WriteLine("Digite 3 valores");
             string[] valores = Console.ReadLine().Split(" ");
             a = double.Parse(valores[0], CultureInfo.InvariantCulture);
