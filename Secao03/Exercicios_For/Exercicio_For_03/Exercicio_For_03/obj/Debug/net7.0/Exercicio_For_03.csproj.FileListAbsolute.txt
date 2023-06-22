@@ -1,0 +1,15 @@
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\bin\Debug\net7.0\Exercicio_For_03.exe
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\bin\Debug\net7.0\Exercicio_For_03.deps.json
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\bin\Debug\net7.0\Exercicio_For_03.runtimeconfig.json
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\bin\Debug\net7.0\Exercicio_For_03.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\bin\Debug\net7.0\Exercicio_For_03.pdb
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\Exercicio_For_03.csproj.AssemblyReference.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\Exercicio_For_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\Exercicio_For_03.AssemblyInfoInputs.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\Exercicio_For_03.AssemblyInfo.cs
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\Exercicio_For_03.csproj.CoreCompileInputs.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\Exercicio_For_03.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\refint\Exercicio_For_03.dll
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\Exercicio_For_03.pdb
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\Exercicio_For_03.genruntimeconfig.cache
+D:\Backup\Cursos\Udemy\Curso C# Completo\Secao03\Exercicios_For\Exercicio_For_03\Exercicio_For_03\obj\Debug\net7.0\ref\Exercicio_For_03.dll
